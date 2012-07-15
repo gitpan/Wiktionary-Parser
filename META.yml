@@ -27,4 +27,4 @@ resources:
   homepage: https://github.com/clbecker/perl-wiktionary-parser/wiki
   license: http://dev.perl.org/licenses/
   repository: https://github.com/clbecker/perl-wiktionary-parser/
-version: 0.06
+version: 0.07
