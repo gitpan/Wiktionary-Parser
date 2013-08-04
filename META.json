@@ -4,7 +4,7 @@
       "Chris Becker <clbecker@gmail.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112150",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.112621",
    "license" : [
       "perl_5"
    ],
@@ -50,5 +50,5 @@
          "url" : "https://github.com/clbecker/perl-wiktionary-parser/"
       }
    },
-   "version" : "0.08"
+   "version" : "0.09"
 }
